@@ -1,0 +1,17 @@
+.btn-outline-primary{
+    margin-top: 5px;
+}
+.result{
+    text-align: center;
+    border: 2px solid red;
+    outline-style: auto;
+}
+span{
+    width: 100%;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+.active{
+    border: 5px solid rgb(0, 60, 255);
+}
