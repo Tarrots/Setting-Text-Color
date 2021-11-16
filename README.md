@@ -2,7 +2,7 @@
 ### `npm install` 
 ### `npm audit fix`
 ### `npm start`
-# Try it: https://settingtextcolors.netlify.app/
+# Try it: https://setting-text-colors.netlify.app/
 
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
